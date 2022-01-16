@@ -5,7 +5,7 @@
 		<Metadata name="Catalog.узСтатусыЗадачи" id="3acf4cea-27fd-4393-b320-736eabf965d1" configVersion="5b7c1b14a3b70b6a52c2b9ccbc862adb38b5b998"/>
 		<Metadata name="CommonModule.РегОш_НаСервере" id="a5d19fd8-549b-4739-af06-3ea6d8718bd5" configVersion="85d164138f2a9c514c7ed0ab4ff66524999d92f8"/>
 		<Metadata name="CommonModule.РегОш_НаСервере.Module" id="a5d19fd8-549b-4739-af06-3ea6d8718bd5.0" configVersion="aa7cb469de65d7207c8c57ae66be52f0347cdb30"/>
-		<Metadata name="Configuration.РегОш" id="f2ed15ea-448f-4d82-8689-8a1b5f51eff9" configVersion="6552e96ff6d00d07b0af5615201f48bb53773f1a"/>
+		<Metadata name="Configuration.РегОш" id="f2ed15ea-448f-4d82-8689-8a1b5f51eff9" configVersion="54526f95c393781d7ff14903114764eca131e1f4"/>
 		<Metadata name="HTTPService.РегОш_ОтчетОбОшибке" id="0a162a6c-ab4d-45ca-aa7d-d459d6cf2bde" configVersion="d53a347bea7335628f1a80438fbe53e3af595e92">
 			<Metadata name="HTTPService.РегОш_ОтчетОбОшибке.URLTemplate.Check.Method.Check" id="2536c5d0-1594-498c-844f-8504a9376fbd"/>
 			<Metadata name="HTTPService.РегОш_ОтчетОбОшибке.URLTemplate.PushReport.Method.PushReport" id="36d0ebca-d57b-4e93-a404-a17a5ef080e4"/>
@@ -15,7 +15,7 @@
 			<Metadata name="HTTPService.РегОш_ОтчетОбОшибке.URLTemplate.Check" id="90c31cb3-ad37-48d5-b28d-2aa9ae78d9b2"/>
 		</Metadata>
 		<Metadata name="HTTPService.РегОш_ОтчетОбОшибке.Module" id="0a162a6c-ab4d-45ca-aa7d-d459d6cf2bde.0" configVersion="dc179fb2139403e08cfce3a5c9296eca03510d5f"/>
-		<Metadata name="InformationRegister.РегОш_Ошибки" id="6945f1b9-dd96-462d-9c26-e8a0ea0c402d" configVersion="b0750309e9d7ed831ab6bdccddc47da32602cce7">
+		<Metadata name="InformationRegister.РегОш_Ошибки" id="6945f1b9-dd96-462d-9c26-e8a0ea0c402d" configVersion="93899b40494679cce45737743e7d3702c6d8d91c">
 			<Metadata name="InformationRegister.РегОш_Ошибки.Resource.Задача" id="82111f00-5fde-41c2-9445-328536d7c8c9"/>
 			<Metadata name="InformationRegister.РегОш_Ошибки.Dimension.Хэш" id="d351edb9-2527-4421-a956-d0b6b5851c91"/>
 		</Metadata>
